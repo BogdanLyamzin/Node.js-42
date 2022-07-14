@@ -10,6 +10,16 @@
     "author": "Nicolas Bevacqua"
   },
   {
+    "id": "3",
+    "title": "Understanding ECMAScript 6",
+    "author": "Nicholas C. Zakas"
+  },
+  {
+    "id": "4",
+    "title": "Speaking JavaScript",
+    "author": "Axel Rauschmayer"
+  },
+  {
     "id": "5",
     "title": "Learning JavaScript Design Patterns",
     "author": "Addy Osmani"
@@ -31,12 +41,7 @@
   },
   {
     "title": "Worm",
-    "author": "Mc",
-    "id": "shfinRMKuNSNd9lvN53M9"
-  },
-  {
-    "title": "Worm",
-    "author": "Mc",
-    "id": "T43uxuQyDlORYX6tDxveG"
+    "author": "Маккрей",
+    "id": "AirHG5VFbUWS-vPFiLvLX"
   }
 ]

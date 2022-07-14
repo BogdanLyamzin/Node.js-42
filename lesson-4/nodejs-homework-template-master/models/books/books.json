@@ -1,42 +1,42 @@
 [
   {
-    "id": "1",
+    "id": "u9kgwNWGi3uUUwh0b8V49",
     "title": "Eloquent JavaScript, Third Edition",
     "author": "Marijn Haverbeke"
   },
   {
-    "id": "2",
+    "id": "YxhM4QDxPeA3SmPHcEZPJ",
     "title": "Practical Modern JavaScript",
     "author": "Nicolas Bevacqua"
   },
   {
-    "id": "5",
+    "id": "zCd_RioNMOBaQwAXnc8Px",
+    "title": "Understanding ECMAScript 6",
+    "author": "Nicholas C. Zakas"
+  },
+  {
+    "id": "ck89qe3HriUDHe09TBoJ8",
+    "title": "Speaking JavaScript",
+    "author": "Axel Rauschmayer"
+  },
+  {
+    "id": "e1Tpn_I3wBkLREY6wG0lb",
     "title": "Learning JavaScript Design Patterns",
     "author": "Addy Osmani"
   },
   {
-    "id": "6",
+    "id": "Op8ApLTY0-Vn2cR0vDIwG",
     "title": "You Don't Know JS Yet",
     "author": "Kyle Simpson"
   },
   {
-    "id": "7",
+    "id": "dkJSszfrRVtLVR_MfRqcu",
     "title": "Pro Git",
     "author": "Scott Chacon and Ben Straub"
   },
   {
-    "id": "8",
+    "id": "CTHE0f1kkWwqS5sL2tI8_",
     "title": "Rethinking Productivity in Software Engineering",
     "author": "Caitlin Sadowski, Thomas Zimmermann"
-  },
-  {
-    "title": "Worm",
-    "author": "Mc",
-    "id": "shfinRMKuNSNd9lvN53M9"
-  },
-  {
-    "title": "Worm",
-    "author": "Mc",
-    "id": "T43uxuQyDlORYX6tDxveG"
   }
 ]
